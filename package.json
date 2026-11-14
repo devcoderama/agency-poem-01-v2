@@ -1,0 +1,11 @@
+{
+  "name": "agency-poem-01-entry",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "make.fun agency-poem-01 entry: a Node 22 program that writes one short poem about agency to /output/entry.txt.",
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "license": "MIT"
+}
